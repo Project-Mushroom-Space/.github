@@ -13,4 +13,6 @@ We also host a newsletter:
 
 - https://newsletters.projectmushroom.xyz/
 
+## Wiki & documentation
 
+Documentation not attached to a specific repo, such as Project Mushroom meeting notes, can be found on the [Wiki](https://github.com/Project-Mushroom-Space/.github/wiki)
